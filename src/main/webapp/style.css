@@ -1,0 +1,28 @@
+
+.container1{
+    padding: 10px 10px;
+    margin: 100px 440px;
+   
+    border-radius: 5%;
+    background-color: skyblue;
+    
+}
+#mr20{
+    padding: 30px 30px;
+    color: black;
+    
+}
+#mr21{
+    padding: 10px 30px;
+    color: black;
+    
+}
+.a{
+    background-color: palevioletred;
+    
+}
+.s{
+    background-image: url(../../assets/8.jpg);
+    background-size: cover;
+    padding: 10px 0px;
+}
